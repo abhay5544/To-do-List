@@ -19,7 +19,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/your-username/todo-list-react.git
+git clone https://github.com/abhay5544/To-do-List.git
 cd todo-list-react
 
 Install dependencies:
